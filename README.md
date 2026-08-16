@@ -58,5 +58,5 @@ Each milestone tracks my continuous skill progression in:
 
 ## 📫 Connect & Contact
 
-* **GitHub Profile:** [github.com/MikashitaDezu](https://github.com/MikashitaDezu)
+* **GitHub:** [@Eduard969192](https://github.com/Eduard969192)
 * **Institution:** University of Eastern Pangasinan
