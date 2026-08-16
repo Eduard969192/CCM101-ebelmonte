@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduard Belmonte
+# Eduard Castiilo
 ### **4th-Year Information Technology Student • Block 4D**
 
 <p align="center">
